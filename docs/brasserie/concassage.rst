@@ -49,7 +49,7 @@ Inconvénients :
 Cette méthode est très déconseillée !
 
 Douille
--------
+.......
 
 Il est possible d'entrainer les moulins de type Corona grâce à une douille de 17
 qui s'adapte à l'axe. Cette douille peut ensuite être entraînée par un moteur
@@ -87,7 +87,7 @@ Inconvénients :
 - L'axe risque de s'user avec le temps
 
 Courroie
---------
+........
 
 Autre système possible, entrainer l'axe à l'aide d'une courroie.
 

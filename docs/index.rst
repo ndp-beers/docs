@@ -6,6 +6,7 @@ Documentation pour la construction d'une pico de 100L
 .. toctree::
    :maxdepth: 2
 
+   depart
    materiel
    liens
 

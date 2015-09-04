@@ -159,8 +159,30 @@ Inconvénients :
 - Nécessite un brûleur supplémentaire
 - Troisième cuve de 100L donc plus chère qu'une cuve tampon
 
+Gaz
+---
+
 Butane ou propane ?
--------------------
+...................
+
+Attention, chaque gaz nécessite son propre détendeur. Les détendeurs pour butane
+ne doivent pas être utilisés avec des bouteilles de propane et vis-versa.
+
+Butane
+``````
+
+:Usage:             Intérieur ou extérieur
+:Température min.:  5°C, en dessous, il reste liquide
+:Détendeur:         0.28 mbar
+:Tuyaux:            Raccords à téton toléré
+
+Propane
+```````
+
+:Usage:             Extérieur seulement
+:Température min.:  -40°C
+:Détendeur:         0.37 mbar
+:Tuyaux:            Raccords à vis uniquement
 
 .. epigraph::
 
@@ -173,11 +195,11 @@ Butane ou propane ?
 
   -- `Butagaz.fr <http://www.butagaz.fr/utilisationsgaz/tout-sur-le-gaz/propane.aspx#sthash.z63nPfgv.dpuf>`_
 
-Le propane étant lui fait pour des usages de "faible puissance", nous sommes
-partis sur l'utilisation du propane.
+Le butane étant fait pour des usages de "faible puissance", nous sommes partis
+sur l'utilisation du propane.
 
-Bruleurs
---------
+Brûleurs
+........
 
 Les réchauds à 3 anneaux qu'on a trouvé font tous au mimimum 60 cm de
 diamètre, et donc seront trop gros pour nos cuves (de 50 ou 55 cm).

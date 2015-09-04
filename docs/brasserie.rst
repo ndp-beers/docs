@@ -1,5 +1,5 @@
-Matériel
-========
+Brasserie
+=========
 
 Pour pouvoir construire une pico brasserie de 100 litres, il faut un peu de
 matériel, voici ce que nous avons identifié:

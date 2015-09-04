@@ -7,7 +7,7 @@ Documentation pour la construction d'une pico de 100L
    :maxdepth: 2
 
    depart
-   materiel
+   brasserie
    liens
 
 

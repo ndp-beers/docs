@@ -7,5 +7,6 @@ Brasserie
    brasserie/structure
    brasserie/cuves
    brasserie/filtration
+   brasserie/refroidissement
    brasserie/gaz
 

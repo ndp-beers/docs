@@ -9,5 +9,6 @@ Brasserie
    brasserie/gaz
    brasserie/concassage
    brasserie/filtration
+   brasserie/pompe
    brasserie/refroidissement
 

@@ -12,19 +12,23 @@ Fournisseurs
 * `<http://www.homebrewing.org>`_ (pour kegs d'occase)
 * `<http://www.achat-plomberie.fr>`_
 * `<http://ebay.fr>`_ ;)
+
 Ingrédients
 -----------
 
 * `<http://www.glutenfreehomebrewing.org>`_ (sans gluten)
 
-Autres projets
---------------
+Autres projets de picobrasserie
+-------------------------------
 
 * `BrewPi <http://www.brewpi.com>`_ (régulateur de t° avec Raspberry Pi)
 * `<http://www.theelectricbrewery.com/>`_ (brasserie entièrement électrique)
 * `<https://www.logre.eu/wiki/Pico-Brasserie>`_
 * `<http://fablabo.net/wiki/LuluLaNantaise>`_
 * `<http://saintluc.jolimont.fr/wiki/index.php/Accueil>`_
+* `<http://www.brassageamateur.com/forum/ftopic13227.html>`_
+* `<http://www.brassageamateur.com/phpBB/ftopic14858-0.html>`_
+* `<http://blog.gamb.fr>`_
 
 Lectures intéressantes
 ----------------------
